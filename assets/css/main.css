@@ -1927,8 +1927,8 @@ ul.actions li:first-child {
 #nav a span {
 	display: block;
 	position: absolute;
-	background: #222222;
-	color: #410093;
+	background: #410093;
+	color: #ffffff;
 	top: -2.75em;
 	font-size: 0.3em;
 	height: 2.25em;
