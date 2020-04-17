@@ -1388,12 +1388,12 @@ html {
 }
 
 body {
-  background-image: url("images/apple-main.jpg"), url("images/bg.jpg");
-  background-repeat: repeat, no-repeat;
-  background-size: auto, 100% 100%;
+  background-image: url("images/apple-main.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
   background-attachment: fixed;
   overflow-y: scroll;
-  /* opacity: 110%; */
+  opacity: 110%;
 }
 
 body.is-preload *,
